@@ -160,7 +160,7 @@
   <entry>
     <title>About me</title>
     <url>/2099/12/31/hello-world/</url>
-    <content><![CDATA[<p>♬月火水木金土日♬<br>♬毎日が Workday♬<br>Hi, 我是Mahiroshi, 正如网名, 是个偶像宅<br>I am currently a third-year undergraduate student at <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, majoring in Computer Science with special track of Data Science and Artificial Intelligence.<br>I am currently conducting research with topic of CADS in medical image processing at the <a href="https://medvisailab.github.io/">MAVIT LAB</a>. Before that, I join the <a href="http://dpnm.postech.ac.kr/">DPNM</a> lab during <a href="https://international.postech.ac.kr/user/admission/psp/html/01.do">Postech Summer Program</a> and <a href="https://researchdata.ntu.edu.sg/dataverse/slabai">S-Lab for Advanced Intelligence</a> during the second year in NTU.<br>I am searching collaboration about AI implementation in Medical Image area. Please condact me if you have interest in it.</p>
+    <content><![CDATA[<p>♬月火水木金土日♬<br>♬毎日が Workday♬<br>Hi, 我是Mahiroshi, 正如网名, 是个偶像宅<br>I am currently a third-year undergraduate student at <a href="https://www.ntu.edu.sg/">Nanyang Technological University</a>, majoring in Computer Science.<br>I am currently interested in the topic of CADS in medical image processing at the <a href="https://medvisailab.github.io/">MAVIT LAB</a>. Before that, I join the <a href="http://dpnm.postech.ac.kr/">DPNM</a> lab during <a href="https://international.postech.ac.kr/user/admission/psp/html/01.do">Postech Summer Program</a> and <a href="https://researchdata.ntu.edu.sg/dataverse/slabai">S-Lab for Advanced Intelligence</a> during the second year in NTU.<br>I am searching collaboration about AI implementation in Medical Image area. Please condact me if you have interest in it.</p>
 <p>关注<a href="https://space.bilibili.com/19874615?spm_id_from=333.337.0.0">Mahiroshi</a>喵！关注<a href="https://idolmaster-official.jp/">爱马仕</a>谢谢喵！<br><a href="https://mahiruoshi.github.io/about/">cv</a><br><a href="https://mahiruoshi.github.io/categories/Projects/">Summary</a> of my Github Project</p>
 ]]></content>
   </entry>
@@ -297,60 +297,6 @@
         <tag>Computer vision</tag>
         <tag>Diffusion-model</tag>
         <tag>Toturial</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Computer vision</title>
-    <url>/2024/09/15/CV/</url>
-    <content><![CDATA[<p>Self-learning</p>
-]]></content>
-      <categories>
-        <category>Course Notes</category>
-      </categories>
-      <tags>
-        <tag>Toturial</tag>
-        <tag>Computer Vision</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Neural Network and Deep learning</title>
-    <url>/2023/09/15/DL/</url>
-    <content><![CDATA[<p>SC4001</p>
-]]></content>
-      <categories>
-        <category>Course Notes</category>
-      </categories>
-      <tags>
-        <tag>Toturial</tag>
-        <tag>Neural Network</tag>
-        <tag>Deep learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Data Analytics and Mining</title>
-    <url>/2023/09/15/DM/</url>
-    <content><![CDATA[<p><a href="https://bainingchao.github.io/2018/09/27/%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%95%99%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%AD%A6%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99Apriori%E7%AE%97%E6%B3%95/">A Apiror算法</a></p>
-]]></content>
-      <categories>
-        <category>Course Notes</category>
-      </categories>
-      <tags>
-        <tag>Toturial</tag>
-        <tag>Deep learning</tag>
-        <tag>Feature Learning</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Data Visualization</title>
-    <url>/2023/09/15/DV/</url>
-    <content><![CDATA[<p>SC4024</p>
-]]></content>
-      <categories>
-        <category>Course Notes</category>
-      </categories>
-      <tags>
-        <tag>Toturial</tag>
-        <tag>Data Visualization</tag>
       </tags>
   </entry>
   <entry>
