@@ -1,0 +1,5 @@
+# Copied to out/.gitattributes so `npm run deploy` (gh-pages) commits the build
+# byte-for-byte. With core.autocrlf=true, git strips the CRs that Windows line
+# endings in content/ leave in the RSC payloads (index.txt). Their text rows
+# carry byte lengths, so the stripped payloads break client-side navigation.
+* -text
